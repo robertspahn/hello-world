@@ -1,6 +1,6 @@
 # hello-world
 Just another repository
-Studying Software Engineering
+Studying
   Working
      Exercising
        etc
